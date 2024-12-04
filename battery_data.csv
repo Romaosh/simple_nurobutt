@@ -1,0 +1,9 @@
+Capacity_mAh,Voltage_V,Weight_g,Energy_Density_Wh_per_kg,Cycle_Life,Chemistry
+3000,3.7,45,250,1500,Li-ion (NMC)
+1500,3.7,25,160,3000,Li-ion (LFP)
+2000,3.7,35,260,2000,Li-ion (NCA)
+2500,3.7,40,350,5000,Solid-state
+1800,3.7,28,150,3500,Li-ion (LFP)
+4000,3.7,50,240,1500,Li-ion (NMC)
+3500,3.7,48,300,4500,Solid-state
+2500,3.7,38,270,2000,Li-ion (NCA)
